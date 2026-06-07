@@ -1,0 +1,38 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local notes / scratchpad
+NOTES.md
+notes/
+scratch/
+draft-*.md
+
+# Generated outputs
+*.docx
+*.pdf
+output/
+out/
+
+# Common dependency / build artefacts (in case adapters grow code later)
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+build/
+
+# Environment / secrets
+.env
+.env.local
+*.key
+*.pem
