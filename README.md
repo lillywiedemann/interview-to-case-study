@@ -1,4 +1,4 @@
-# Customer Case Study Framework
+# Interview to Case Study
 
 A method for turning a customer interview into a publishable B2B case study —
 documented end-to-end, with templates, a worked example, and three ready-to-use
